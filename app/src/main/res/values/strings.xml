@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArouterDemo</string>
+    <string name="jumpToSecond">跳转到第二页</string>
+    <string name="jumpToTest">跳转到测试</string>
+</resources>
